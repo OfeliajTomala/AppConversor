@@ -38,9 +38,11 @@ La interfaz gráfica está desarrollada en **Python** utilizando **Tkinter**, of
 
 3. Revisar los archivos directamente en línea o descargar el proyecto completo como archivo ZIP usando **Code → Download ZIP**.  
      **Archivos principales**
-     -appConversor.py → Código fuente de la aplicación 
-     -dist/ → Ejecutable generado por PyInstaller (appConversor.exe).
-     -README.md → Documentación del proyecto.
+     - appConversor.py → Código fuente de la aplicación 
+     - dist/ → Ejecutable generado por PyInstaller (appConversor.exe).
+     - `appConversor.spec` → Archivo de configuración de PyInstaller:
+     - README.md → Documentación del proyecto.
+     - .gitignore → Archivos y carpetas ignorados
 
 4. Ejecutar la aplicación:  
 
@@ -97,3 +99,6 @@ La interfaz gráfica está desarrollada en **Python** utilizando **Tkinter**, of
 Notas
 
 - Esta aplicación fue desarrollada y probada utilizando Visual Studio Code como entorno de desarrollo.
+
+Autor 
+Ofelia Jessica Tomalá Tomalá
