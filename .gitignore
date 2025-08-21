@@ -1,0 +1,7 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+
+# Carpeta de build temporal de PyInstaller (no subir)
+build/
